@@ -1,2 +1,4 @@
 # python_p
-python练习集
+test....
+
+[xxxxx](notes/07_lstm.html)
