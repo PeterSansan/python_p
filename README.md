@@ -1,4 +1,4 @@
-# python_p
-test....
 
-[xxxxx](notes/07_lstm.html)
+
+
+1.[numpy_array](notes/1_numpy_array.md):介绍numpya中array数组类型的使用
